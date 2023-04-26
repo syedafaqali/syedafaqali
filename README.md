@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syed Afaq Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fthe-most-hilarious-code-comments-ever-bae3cb1030b5&psig=AOvVaw3uZWl5wZZes0A4h8pP-lMl&ust=1682591946317000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKic2t-tx_4CFQAAAAAdAAAAABAX">
+<img align="right" alt="coding" width="400" scr="![image](https://user-images.githubusercontent.com/131855445/234555908-85605070-2001-4170-aa23-e60c8b39804a.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafaqali&label=Profile%20views&color=0e75b6&style=flat" alt="syedafaqali" /> </p>
 
